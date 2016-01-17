@@ -21,12 +21,12 @@
 
 
 //////////////////////////微信//////////////////////////////
-#define WeChatAppID             @""
-#define WeChatAppSecret         @""
+#define WeChatAppID             @"wx6d69456d1c53d8c4"
+#define WeChatAppSecret         @"5a28fbfb66665578de9175cfa0dc1c6c"
 //商户号，填写商户对应参数
-#define WeChatMCH_ID                  @""
+#define WeChatMCH_ID                  @"1307802501"
 //商户API密钥，填写相应参数
-#define WeChatPARTNER_ID              @""
+#define WeChatPARTNER_ID              @"b24b0113cdad62abc41d26b5e1b90805"
 //支付结果回调页面
 #define WeChatNOTIFY_URL              @""
 //获取服务器端支付数据地址（商户自定义）
